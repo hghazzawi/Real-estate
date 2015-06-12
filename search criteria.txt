@@ -1,0 +1,24 @@
+bathrooms 
+3
+
+bedrooms empty
+
+material 
+wood 
+
+stories  3
+
+min 25000
+max 1000000
+
+status 
+rent 
+
+view 
+ocean 
+
+type duplex
+
+options garage 
+
+city oshawa
